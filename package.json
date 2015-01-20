@@ -33,9 +33,6 @@
     "test": "node test.js && iojs test.js && jshint src"
   },
   "dependencies": {
-    "canvas": "1.1.x",
-    "jsdom": "1.1.x",
-    "xmldom": "0.1.x"
   },
   "devDependencies": {
     "execSync": "1.0.x",
